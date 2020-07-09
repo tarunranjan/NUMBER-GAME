@@ -1,4 +1,4 @@
-
+NUMBER GAME
 
 player has 1000 INR when he starts the game
 
